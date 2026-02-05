@@ -1,7 +1,4 @@
-<!-- Header Image -->
-<div align="center">
-  <img src="github-header-image.png" width="100%" alt="Header" />
-</div>
+
 
 <div align="center">
   <h1>Hi there 👋, I'm Marcellinus Renditta Mardyanto</h1>
@@ -95,44 +92,4 @@
 
 </div>
 
----
 
-<div align="center">
-
-### 📊 GitHub Stats
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcell-Git&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
-</td>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcell-Git&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</td>
-</tr>
-</table>
-
-### 🔥 Streak Stats
-<img src="https://nirzak-streak-stats.vercel.app/?user=Marcell-Git&theme=dark&hide_border=true" />
-
-### 🏆 Trophies
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Marcell-Git&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-
-<br/>
-<br/>
-
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<br/>
-
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=Marcell-Git&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-<br/>
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=Marcell-Git&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
